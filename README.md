@@ -1,0 +1,3 @@
+# Classifying Reddit Posts with NLP
+
+In this project, I scraped nearly 2000 combined posts from the subreddits r/personalfinance and r/financialindependence; two very similar yet different topics given their focus on one's finances, albeit from two very different perspectives. Using NLP techniques, I built a Random Forest Classifier, Multinomial Naive Bayes Classifier, and Logistic Regression Classifier to achieve over 90% accuracy with identifying which post a given subreddit belonged to.
